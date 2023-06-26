@@ -1,0 +1,85 @@
+table {
+  border-collapse: collapse;
+  /* width: 100%; */
+}
+
+th, td {
+  border: 1px solid black;
+  padding: 3px;
+  text-align: left;
+}
+
+h6.header, p.header {
+  text-align: center;
+  font-weight: bold;
+}
+
+p.content-left {
+  text-align: left;
+}
+
+p.content-right {
+  text-align: right;
+}
+
+.red-text {
+  color: red;
+}
+
+th.order-column {
+  width: 5%;
+}
+
+
+td.detail {
+  width: 30%;
+}
+
+td.count, td.vat {
+  width: 25%;
+}
+
+.custom-table1 {
+  width: 100%;
+}
+
+.custom-table2 {
+  width: 155%;
+}
+
+
+th.process {
+  width: 5%;
+}
+
+td.gl-date {
+  width: 20%;
+  font-weight: bold;
+}
+
+td.doc-no {
+  width: 20%;
+  font-weight: bold;
+}
+
+td.created-by {
+  width: 20%;
+  font-weight: bold;
+}
+
+td.validate {
+  width: 30%;
+}
+
+
+.rectangle {
+  border: 1px solid black;
+  padding: 10px;
+  width: 155%;
+}
+
+.recAll {
+  border: 1px solid black;
+  padding: 10px;
+  width: 100vm;
+}
